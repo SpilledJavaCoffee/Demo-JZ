@@ -1,2 +1,6 @@
 # Demo-JZ
-This is a demo!
+This is a demo git repository!
+
+## First Update
+
+## Second Update
